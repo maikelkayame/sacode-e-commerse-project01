@@ -1,5 +1,5 @@
 # SaCode E-Commerse Project01
-##project01-Dokumen HTML pertama
+## project01-Dokumen HTML pertama
 
 * Belajar GitHub, buat repository dan github pages 
 * Membuat dokumen HTML pertama
